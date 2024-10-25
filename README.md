@@ -16,6 +16,7 @@
  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next" />
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" />
+ <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=sass&logoColor=white" alt="java" />
  </div><br/>
 
 ## Social:
